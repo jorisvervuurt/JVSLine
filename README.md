@@ -1,6 +1,9 @@
 # JVSLine
 A custom Interface Builder-designable line view for iOS, written in Swift.
 
+# IMPORTANT NOTICE
+This repository has moved to [GitLab](https://gitlab.joris-vervuurt.com/swift/jvsline).
+The GitHub repository been archived and will no longer be maintained.
 
 ## Usage
 Simply drag a UIView onto your view and set it's class to JVSLine, or programmatically add it as a subview.
